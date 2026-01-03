@@ -1,0 +1,21 @@
+{
+  "name": "2601roguejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avemaro/2601RogueJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/avemaro/2601RogueJS/issues"
+  },
+  "homepage": "https://github.com/avemaro/2601RogueJS#readme"
+}
